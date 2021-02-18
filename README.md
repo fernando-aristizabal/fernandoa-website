@@ -1,6 +1,6 @@
 # **Interdisciplinary Scientific Researcher & Software Developer**
 
-**Areas of interest:** _remote sensing, machine learning, hydrology, geospatial, computational sciences, and flood inundation mapping_
+Interested in problems at the nexus of remote sensing, machine learning, geospatial sciences, computational sciences, hydrology, and flood inundation mapping.
 
 ## Affiliations
 
