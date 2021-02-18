@@ -1,3 +1,3 @@
-# fernandoa-website
+# Scientific researcher and software developer
 
-adding a little extra to test
+**Areas of interest:** _remote sensing, machine learning, hydrology, geospatial, computational science, and flood inundation mapping_
