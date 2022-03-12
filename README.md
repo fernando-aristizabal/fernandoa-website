@@ -1,3 +1,5 @@
+# Fernando Aristizabal
+
 ## Who I am: 
 An adaptable, interdisciplinary scientist that tackles problems at the nexus of remote sensing, hydrology, agriculture, and the environment through the use of empirical computational techniques such physics-based modeling, statistics, machine learning, data science, geospatial software, and high performance computing. 
 
@@ -13,7 +15,7 @@ A major theme of the 21st century will be about developing a finer grain managem
 ## My tools:
 My technology stack includes Python, R, Bash, Linux, Matlab/Octave, C++, GDAL/OGR, QGIS, Scikit-Learn, Tensorflow, Docker, Git, AWS, Digital Ocean, and more. 
 
-## Affiliations
+## My affiliations
 
 - **University of Florida**, [Center for Remote Sensing](https://abe.ufl.edu/research/CRS/): Ph.D. Candidate
 - [**Lynker Technologies**](https://www.lynker.com/), affiliated with [NOAA's Office of Water Prediction National Water Center](https://water.noaa.gov/): Research Scientist
