@@ -1,4 +1,5 @@
-# **Interdisciplinary Scientific Researcher & Software Developer**
+# Fernando Aristizabal
+## **Interdisciplinary Scientific Researcher & Software Developer**
 
 Interested in problems at the nexus of remote sensing, machine learning, geospatial sciences, computational sciences, hydrology, and flood inundation mapping.
 
