@@ -1,2 +1,7 @@
-theme: jekyll-theme-slate
+remote_theme: pages-themes/cayman@v0.2.0
+#theme: jekyll-theme-slate
+
+plugins:
+- jekyll-remote-theme 
+
 title: Fernando Aristizabal
